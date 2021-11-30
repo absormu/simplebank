@@ -3,6 +3,15 @@ https://www.youtube.com/playlist?list=PLy_6D98if3ULEtXtNSY_2qN21VCKgoQAE
 
 https://gist.github.com/rmzluish/f24fcc8c0b9ad8ba4e3f1f84a7c3bfa2
 
+# GIT
+```
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:absormu/simplebank.git
+git push -u origin main
+```
 ## Bikin skema db postgresql
 https://dbdiagram.io/
 ```
